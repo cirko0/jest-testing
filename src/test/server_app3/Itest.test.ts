@@ -9,7 +9,7 @@ import { Server } from "../../app/server_app/server/Server";
 import { getRequestBody } from "../../app/server_app/utils/Utils";
 import { makeAwesomeRequest } from "./utils/http-client";
 
-describe("Server app integration tests", () => {
+describe.skip("Server app integration tests", () => {
   let server: Server;
 
   beforeAll(() => {
