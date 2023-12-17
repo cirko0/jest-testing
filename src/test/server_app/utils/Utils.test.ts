@@ -41,9 +41,7 @@ describe("getRequestBody test suite", () => {
 
     await expect(
       getRequestBody(requestMock as any as IncomingMessage)
-    ).rejects.toThrow(
-      'Unexpected token \'a\', "a{"name":""... is not valid JSON'
-    );
+    ).rejects.toThrow("Unexpected token a in JSON at position 0");
   });
 
   it("should throw error for unexpected error", async () => {
