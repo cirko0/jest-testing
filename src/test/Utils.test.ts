@@ -8,7 +8,7 @@ describe("Utils test suite", () => {
 
     // Setup
     beforeEach(() => {
-      sut = new StringUtils();
+      sut = new StringUtils(a);
       console.log("Setup");
     });
 
