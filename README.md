@@ -10,6 +10,6 @@ This branch dives deep into unit and integration testing for Node.js and Typescr
 - Structuring Jest test suites for Node.js applications
 - Structuring Jest test suites, assertions, and matchers
 - Working with mocks, stubs, spies, and fakes in Node.js testing
-- Implementing integration tests for Node.js server applications
+- Implementing integration tests for Node.js server applications and REST APIs
 - Test Driven Development (TDD) practices
 - Exploring London/Chicago testing approaches in Node.js
