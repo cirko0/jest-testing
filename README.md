@@ -9,6 +9,5 @@ This branch is dedicated to mastering unit testing for React applications using 
 - Configuring Jest for React unit testing
 - Structuring Jest test suites, assertions, and matchers
 - Working with mocks, stubs, spies, and fakes in React testing
-- Integration testing for REST APIs within React projects
 - Test Driven Development (TDD) practices
 - Jest React unit testing with async code and debugging techniques
