@@ -1,6 +1,6 @@
 # Node.js Testing with Jest
 
-This branch dives deep into unit testing for Node.js and Typescript applications using Jest. It covers the setup of Node.js and Typescript projects, thorough Jest configuration for Node.js testing, and implementation of various testing techniques.
+This branch dives deep into unit and integration testing for Node.js and Typescript applications using Jest. It covers the setup of Node.js and Typescript projects, thorough Jest configuration for Node.js testing, and implementation of various testing techniques.
 
 ## Course Highlights:
 
